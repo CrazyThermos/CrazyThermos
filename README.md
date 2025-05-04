@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyThermos
-- 👀 I’m interested in Embedded Deep Learning and Computer Vision
-- 🌱 I’m currently learning OpenCV and Model Deployment
+- 👀 I’m interested in High Performance Computing and Computer Vision
+- 🌱 I’m currently learning AI Infra and High Performance Computing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
